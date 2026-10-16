@@ -11,7 +11,7 @@ React · JavaScript · Tailwind · Node.js · Python · Java
 - 🤖 AI Resume Analyzer — React + Claude API (Coming Soon)
 
 ## 📊 Currently Learning
-Redux Toolkit · REST APIs · DSA
+Redux Toolkit · REST APIs · DSA . backend
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/yash-shinde-66b37332b) · [Email](mailto:shindeyash.dev@gmail.com)
